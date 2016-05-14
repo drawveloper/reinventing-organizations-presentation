@@ -1,0 +1,19 @@
+{
+  "name": "reinventing-organizations-presentation",
+  "version": "0.2.0",
+  "description": "Apresentação sobre Reinventing Organizations",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstdoit/reinventing-organizations-presentation.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstdoit/reinventing-organizations-presentation/issues"
+  },
+  "homepage": "https://github.com/firstdoit/reinventing-organizations-presentation#readme",
+  "dependencies": {
+    "cleaver": "^0.8.1"
+  }
+}
